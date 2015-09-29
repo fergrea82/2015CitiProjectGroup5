@@ -7,5 +7,6 @@ public class third {
 		int y =5;
 		System.out.println("HI FERG");
 		System.out.println(y-n);
+		System.out.println("HELLO");
 		}
 }
